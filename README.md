@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text]([https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg](https://www.google.com/search?q=CJL+logo&tbm=isch&ved=2ahUKEwj7iJjShar4AhWki9gFHbo8BS0Q2-cCegQIABAA&oq=CJL+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQ6BAgjECc6BggAEB4QBToECAAQGFCvCFjMDGCsDmgAcAB4AIABMIgB7gGSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=3_mmYrudLKSX4t4PuvmU6AI&bih=789&biw=1600#imgrc=jtZXxLilrD7MiM))
+![alt text]([https://www.google.com/search?q=CJL+logo&tbm=isch&ved=2ahUKEwj7iJjShar4AhWki9gFHbo8BS0Q2-cCegQIABAA&oq=CJL+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQ6BAgjECc6BggAEB4QBToECAAQGFCvCFjMDGCsDmgAcAB4AIABMIgB7gGSAQE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=3_mmYrudLKSX4t4PuvmU6AI&bih=789&biw=1600#imgrc=jtZXxLilrD7MiM])
 
 <!-- Add your details -->
 
